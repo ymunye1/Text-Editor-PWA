@@ -1,20 +1,19 @@
-# 14 Model-View-Controller (MVC): Tech Blog
+#  PWA: Text Editor
 
- 
-  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow)](https://opensource.org/licenses/MIT)
   
+
+Link to github with code (https://github.com/ymunye1/Text-Editor-PWA)
+
+Link to deployed site (https://text-editor-pwa-2022.herokuapp.com/) 
 
   ## Description
 
-  This webpage was created with Handlebars. This program is a blog site that can create, update, and delete post. users can also comment on post. Users have to sign up and be logged-in in order to use the webpage.
+ The app text-editor that uses a single-page application that was built and  now runs in the browser. It can also be downloaded if you would like
 
- Link to github with code 
- <!-- (https://github.com/ymunye1/Tech-Blogs) -->
 
- Link to deployed site 
- <!-- (https://tech-blog-022022.herokuapp.com/)  -->
 
-  ![Tech-Blog(Screenshot)]()
+  ![text-editor-pwa-Screenshot](https://user-images.githubusercontent.com/90288817/161193780-6054cc97-0381-494a-af80-8f5459a94318.png)
 
   ## Table of Contents
 
@@ -28,18 +27,9 @@
  
   ## Installation
 
-  To install necessary dependencies use the following command:
-```
-npm i
-```
-## Usage 
-```
-npm start
-```
+none
 
-```
-npm run seed
-```
+
   ## License
 
   This application is covered under the "MIT" license, see (https://opensource.org/licenses/MIT) for more info.
